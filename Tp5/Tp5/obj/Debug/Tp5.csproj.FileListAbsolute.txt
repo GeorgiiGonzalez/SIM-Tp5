@@ -1,0 +1,10 @@
+C:\Users\User\Documents\UTN\4to\Sim\TP-5-Georgi\SIM-Tp5\Tp5\Tp5\bin\Debug\Tp5.exe.config
+C:\Users\User\Documents\UTN\4to\Sim\TP-5-Georgi\SIM-Tp5\Tp5\Tp5\bin\Debug\Tp5.exe
+C:\Users\User\Documents\UTN\4to\Sim\TP-5-Georgi\SIM-Tp5\Tp5\Tp5\bin\Debug\Tp5.pdb
+C:\Users\User\Documents\UTN\4to\Sim\TP-5-Georgi\SIM-Tp5\Tp5\Tp5\obj\Debug\Tp5.csprojAssemblyReference.cache
+C:\Users\User\Documents\UTN\4to\Sim\TP-5-Georgi\SIM-Tp5\Tp5\Tp5\obj\Debug\Tp5.Form1.resources
+C:\Users\User\Documents\UTN\4to\Sim\TP-5-Georgi\SIM-Tp5\Tp5\Tp5\obj\Debug\Tp5.Properties.Resources.resources
+C:\Users\User\Documents\UTN\4to\Sim\TP-5-Georgi\SIM-Tp5\Tp5\Tp5\obj\Debug\Tp5.csproj.GenerateResource.cache
+C:\Users\User\Documents\UTN\4to\Sim\TP-5-Georgi\SIM-Tp5\Tp5\Tp5\obj\Debug\Tp5.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\UTN\4to\Sim\TP-5-Georgi\SIM-Tp5\Tp5\Tp5\obj\Debug\Tp5.exe
+C:\Users\User\Documents\UTN\4to\Sim\TP-5-Georgi\SIM-Tp5\Tp5\Tp5\obj\Debug\Tp5.pdb
